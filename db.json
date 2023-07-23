@@ -1,0 +1,95 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Nihira",
+      "password": "admin123",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "jonsi",
+      "name": "Jonsi Ranpariya",
+      "password": "jonsi",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "female"
+    },
+    {
+      "id": "milan",
+      "name": "Jonsi Ranpariya",
+      "password": "milan123",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "female"
+    },
+    {
+      "id": "JONSI",
+      "name": "Jonsi Ranpariya",
+      "password": "PATEL",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "female"
+    },
+    {
+      "id": "radha",
+      "name": "Jonsi Ranpariya",
+      "password": "patel",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "male"
+    },
+    {
+      "id": "jevin",
+      "name": "Jonsi Ranpariya",
+      "password": "jevin",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "female"
+    },
+    {
+      "id": "jonu",
+      "name": "Jonsi Ranpariya",
+      "password": "patel",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "female"
+    },
+    {
+      "id": "rteyeye",
+      "name": "Jonsi Ranpariya",
+      "password": "fdvgvef",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "female"
+    },
+    {
+      "id": "dadaqd",
+      "name": "Jonsi Ranpariya",
+      "password": "afafa",
+      "email": "viradiyajonsi0708@gmail.com",
+      "phone": "07862867920",
+      "country": "india",
+      "address": "E-303, Rajratna Platina, Vaikunth , Waghodiya Chowkadi, Vadodara.",
+      "gender": "female"
+    }
+  ]
+}
